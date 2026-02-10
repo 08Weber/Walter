@@ -9,7 +9,9 @@
 
 html, body, #root {
     height: 100%;
+    font-family: 'Montserrat', sans-serif;
 }
+
 
 body {
     background: linear-gradient(#3B3E98, #1681D3);
